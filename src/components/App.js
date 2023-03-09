@@ -238,6 +238,16 @@ class App extends Component {
               <MyPopup buttonLabel="NFT">
                 <div>
                   <p className="manual-titles">Non-Fungible Tokens</p>
+                  <p className="manual-text">
+                    NFTs or non-fungible tokens are unique digital assets that are stored on a blockchain along with the link to the NFT and the owner's information.
+                    The blockchain serves as a decentralized and immutable ledger, which means that once an NFT is minted and recorded on the blockchain, it cannot be altered or deleted. 
+                    This ensures that the ownership and authenticity of each NFT can be verified and tracked by anyone on the blockchain.<br />
+                    &emsp;
+                    In Seabattle, NFTs represent more than just a player's victory - they are a digital embodiment of the player's skill and strategy. 
+                    When a player wins a game, a unique NFT is minted that is tied to that specific victory. 
+                    These NFTs are not just tokens, but valuable digital assets that cannot be replicated or duplicated.
+                    The existence of NFTs in Seabattle creates a new dimension to the game, adding an element of excitement and motivation for players to improve their skills.
+                  </p>
                 </div>
               </MyPopup>
               <MyPopup buttonLabel="Contacts">
