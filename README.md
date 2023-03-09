@@ -11,7 +11,7 @@ This innovative application combines my previous web game project with the power
   * [cv2](https://pypi.org/project/opencv-python/#files) (Install by running `pip install opencv-python`)
   * [cv2](https://flask.palletsprojects.com/en/2.2.x/installation/#install-flask) (Install by running `pip install Flask`)
 * [Truffle](https://trufflesuite.com/docs/truffle/) (Install by running `npm install --g truffle@5.1.39`)
-* [Ganache](https://trufflesuite.com/ganache/) (Install by running `npm install --g truffle@5.1.39`)
+* [Ganache](https://trufflesuite.com/ganache/)
 * [Node.js](https://nodejs.org/en/)
 * [Metamask](https://metamask.io/) extension for Chrome
 
