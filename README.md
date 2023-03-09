@@ -30,7 +30,7 @@ npm install
   * Create your account (if you don't have one)
   * Open Networks tab and click Add network:
   
-  ![image](./manual/tutorial1.png | height=100)
+  ![image](./manual/tutorial1.png)
   
   * And then click Add network manually:
   
