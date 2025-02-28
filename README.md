@@ -1,6 +1,6 @@
 # Seabattle Blockchain Application
 
-This innovative application combines my previous web game project with the power of blockchain technology. It features a thrilling gameplay experience with competitive seabattle AI and gives users ability to record their progress by minting and storing NFT tokens on the Ethereum blockchain, making them easily verifiable.
+This project combines [my previous web game project](https://github.com/SeldonHZ/SeaBattle-web) with blockchain. It features a seabattle game with AI and provides ability to record their progress by minting and storing NFT tokens on the Ethereum network, making them blockchain-verifiable.
 
 ![image](./preview.png)
 
